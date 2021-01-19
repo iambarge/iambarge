@@ -11,6 +11,9 @@ My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 [2]: https://www.linkedin.com/in/nicolo-bargellesi/
 [3]: https://www.instagram.com/iambarge/
 
+## :ship: THE BARGE
+**THE BARGE** is a portfolio repository for all the AI related projects I have done for academic, professional, self-learning and hobby purposes. If you are interested go and have a look! :point_right: [the-barge-ai](https://github.com/iambarge/the-barge-ai)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=orange)
