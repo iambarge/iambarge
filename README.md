@@ -3,9 +3,13 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/wave.gif" width="30px">
 
-My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
+My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm from Italy, living in Montebelluna (near Venice! :rowboat:) and currently collaborating with Electrolux. You can find me on [<img src="src/twitter_icon.png" width="16" height="16">][1] or on [<img src="src/linkedin_icon.png" width="16" height="16">][2], and if you like drones and photography also on [<img src="src/twitter_icon.png" width="16" height="16">][3].
 
-You can find me on [<img src="src/twitter_icon.png" width="16" height="16">][1] or on [<img src="src/linkedin_icon.png" width="16" height="16">][2].
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/iambarge_
+[2]: https://www.linkedin.com/in/nicolo-bargellesi/
+[3]: https://www.instagram.com/iambarge/
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=orange)
