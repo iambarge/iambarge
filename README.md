@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/iambarge/iambarge/master/src/GitHub_READM.png)
+![Header](https://raw.githubusercontent.com/iambarge/iambarge/master/src/GitHub_README.png)
 
 
 # Hello, World! <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/wave.gif" width="30px">
