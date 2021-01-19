@@ -3,7 +3,7 @@
 
 # Hello, World! <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/wave.gif" width="30px">
 
-My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm from Italy, living in Montebelluna (near Venice! :rowboat:) and currently collaborating with Electrolux. You can find me on [<img src="src/twitter_icon.png" width="16" height="16">][1] or on [<img src="src/linkedin_icon.png" width="16" height="16">][2], and if you like drones and photography also on [<img src="src/twitter_icon.png" width="16" height="16">][3].
+My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm from Italy, living in Montebelluna (near Venice! :rowboat:) and currently collaborating with Electrolux. You can find me on [<img src="src/twitter_icon.png" width="16" height="16">][1] or on [<img src="src/linkedin_icon.png" width="16" height="16">][2], and if you like drones and photography also on [<img src="src/instagram_icon.png" width="16" height="16">][3].
 
 <!-- Links to your social media accounts -->
 
