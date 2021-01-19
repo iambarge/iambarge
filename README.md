@@ -5,7 +5,7 @@
 
 My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 
-You can find me on [<img src="resources/images/twitter_icon.png" width="16" height="16">][1] or on [<img src="resources/images/linkedin_icon.png" width="16" height="16">][2].
+You can find me on [<img src="src/twitter_icon.png" width="16" height="16">][1] or on [<img src="src/linkedin_icon.png" width="16" height="16">][2].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=orange)
