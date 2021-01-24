@@ -25,7 +25,7 @@ My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 ![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=orange)
 
-## Stats
+## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambarge&langs_count=3&hide_border=true&title_color=F27E3F&text_color=ffffff&bg_color=0D1117)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarge&show_icons=true&title_color=F27E3F&text_color=ffffff&icon_color=F27E3F&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&line_height=25)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarge&show_icons=true&title_color=F27E3F&text_color=ffffff&icon_color=F27E3F&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&custom_title=Interactions&line_height=26)
 
