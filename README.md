@@ -26,5 +26,5 @@ My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 ![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=orange)
 
 ## Stats
-![Nicolò's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarge&show_icons=true&title_color=333333&text_color=333333&icon_color=333333&bg_color=ffffff&hide_border=0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambarge&layout=compact)
+![Nicolò's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarge&show_icons=true&title_color=F27E3F&text_color=ffffff&icon_color=F27E3F&bg_color=202020&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambarge&langs_count=5&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=202020)
