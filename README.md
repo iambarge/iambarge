@@ -27,5 +27,5 @@ My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambarge&langs_count=3&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0D1117)
-![Nicolò's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarge&show_icons=true&title_color=F27E3F&text_color=ffffff&icon_color=F27E3F&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&hide_title=true)
+![Nicolò's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambarge&show_icons=true&title_color=F27E3F&text_color=ffffff&icon_color=F27E3F&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&line_height=32)
 
