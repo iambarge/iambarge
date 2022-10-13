@@ -30,7 +30,8 @@ My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 | 2020 | 2021 |
 | -- | -- |
 | <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/hacktoberfest2020.svg" height="50px"> | <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/hacktoberfest2021.svg" height="50px"> |
-
+### Holopin Badges
+[![@iambarge's Holopin board](https://holopin.me/iambarge)](https://holopin.io/@iambarge)
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iambarge&langs_count=3&hide_border=true&title_color=F27E3F&text_color=ffffff&bg_color=0D1117)
