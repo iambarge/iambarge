@@ -27,9 +27,9 @@ My name is Nicolò Bargellesi and I'm a Machine Learning & Control Engineer. I'm
 
 ## 🏆 Badges & Trophies
 ### [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
-| 2020 | 2021 |
-| -- | -- |
-| <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/hacktoberfest2020.svg" height="50px"> | <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/hacktoberfest2021.svg" height="50px"> |
+| 2020 | 2021 | 2022 |
+| -- | -- | -- |
+| <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/hacktoberfest2020.svg" height="50px"> | <img src="https://raw.githubusercontent.com/iambarge/iambarge/master/src/hacktoberfest2021.svg" height="50px"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" height="50px"> |
 ### Holopin Badges
 [![@iambarge's Holopin board](https://holopin.me/iambarge)](https://holopin.io/@iambarge)
 
